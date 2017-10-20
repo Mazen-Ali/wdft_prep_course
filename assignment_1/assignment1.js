@@ -9,7 +9,7 @@ Exercise #2
 Using the loop provided for you below, use the array push method to insert the numbers 1 to 10 into the array.
 */
 
-for(var i=0;i<10;i++){
+for(var i=1;i<=10;i++){
     //use the array push() method here.
     numbers.push(i);
 }
@@ -19,7 +19,7 @@ for(var i=0;i<10;i++){
 Exercise #3
 Test that you used the array push method correctly by console logging the first item in the array. Console log the last item in the array afterwards.
 */
-console.log(numbers[1]);
+console.log(numbers[0]);
 console.log(numbers[9]);
 
 
