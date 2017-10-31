@@ -37,7 +37,6 @@ Write your explanation for Exercise #2 here
 - if it does not have a remainder then print true.
 - we call the function with a number to check.
 
-
 */
 
 
